@@ -1,0 +1,1 @@
+Classical game of mastermind made in ruby. You can try the game [here](https://replit.com/@idinyte/Mastermind?v=1)
